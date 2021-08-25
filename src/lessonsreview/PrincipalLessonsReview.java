@@ -8,6 +8,8 @@ public class PrincipalLessonsReview {
 		
 		JOptionPane.showMessageDialog(null, "Test Message");
 		
+		JOptionPane.showMessageDialog(null, "Prueba de cambio");
+		
 		VistaConsola miJuego = new VistaConsola();
 		
 		miJuego.iniciarJuego();
