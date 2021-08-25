@@ -14,6 +14,8 @@ public class PrincipalLessonsReview {
 		
 		JOptionPane.showMessageDialog(null, "Prueba de cambio 5");
 		
+		JOptionPane.showMessageDialog(null, "Prueba de cambio 6");
+		
 		VistaConsola miJuego = new VistaConsola();
 		
 		miJuego.iniciarJuego();
